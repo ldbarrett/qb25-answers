@@ -1,0 +1,33 @@
+Pancreas 	 ENSG00000162438.11	11.6481	0.7575	0.07	Low Variability
+Pancreas 	 ENSG00000142615.7	11.9823	1.4114	0.12	Low Variability
+Pancreas 	 ENSG00000219073.7	13.1860	0.6691	0.05	Low Variability
+Pancreas 	 ENSG00000142789.19	14.6518	0.5222	0.04	Low Variability
+Testis 	 ENSG00000203784.2	10.5887	1.2486	0.12	Low Variability
+Liver 	 ENSG00000132693.12	11.2338	3.2303	0.29	Medium Variability
+Liver 	 ENSG00000158874.11	12.4032	0.6800	0.05	Low Variability
+Testis 	 ENSG00000118245.2	12.6805	1.4374	0.11	Low Variability
+Minor Salivary Gland 	 ENSG00000171195.10	13.6624	3.5087	0.26	Medium Variability
+Pituitary 	 ENSG00000172179.11	15.3407	2.0224	0.13	Low Variability
+Pancreas 	 ENSG00000137392.9	15.2639	0.8475	0.06	Low Variability
+Pituitary 	 ENSG00000135346.8	11.2111	2.0518	0.18	Low Variability
+Pancreas 	 ENSG00000091704.9	15.4588	0.7174	0.05	Low Variability
+Pancreas 	 ENSG00000204983.13	16.1378	0.7930	0.05	Low Variability
+Small Intestine - Terminal Ileum 	 ENSG00000164822.4	10.5552	3.1739	0.30	Medium Variability
+Small Intestine - Terminal Ileum 	 ENSG00000164816.7	11.7252	3.0626	0.26	Medium Variability
+Thyroid 	 ENSG00000042832.11	12.6887	0.9470	0.07	Low Variability
+Lung 	 ENSG00000122852.14	10.0941	2.9002	0.29	Medium Variability
+Stomach 	 ENSG00000182333.14	12.5066	5.0116	0.40	High Variability
+Pancreas 	 ENSG00000175535.6	14.5777	1.5775	0.11	Low Variability
+Pancreas 	 ENSG00000187021.14	11.3520	0.6081	0.05	Low Variability
+Pancreas 	 ENSG00000254647.6	10.9974	1.8848	0.17	Low Variability
+Stomach 	 ENSG00000134812.7	8.2905	4.1523	0.50	High Variability
+Stomach 	 ENSG00000229859.9	8.7327	4.5958	0.53	High Variability
+Stomach 	 ENSG00000256713.7	9.4299	4.4920	0.48	High Variability
+Pancreas 	 ENSG00000170890.13	14.0734	0.5720	0.04	Low Variability
+Testis 	 ENSG00000122304.10	14.0130	1.4287	0.10	Low Variability
+Testis 	 ENSG00000175646.3	13.9215	1.4982	0.11	Low Variability
+Pancreas 	 ENSG00000168928.12	14.3620	0.5789	0.04	Low Variability
+Pancreas 	 ENSG00000168925.10	14.1370	0.4184	0.03	Low Variability
+Pancreas 	 ENSG00000240338.5	11.7017	0.7055	0.06	Low Variability
+Pituitary 	 ENSG00000259384.6	15.2814	2.1284	0.14	Low Variability
+Prostate 	 ENSG00000142515.14	11.3593	2.7824	0.24	Medium Variability
