@@ -21,3 +21,9 @@ chrI:28323 - A
 chrI:28652 - T
 chrI:29667 - A
 
+
+## Exercise 2
+Zooming into the loci in the ChrI:27,000-30,000 range can inform us which SNPs come from which strains when compared to the BYxRM_GenoData.txt dataset. For example, at chrI:27915, A01_01, A01_03, and A01_04 contain T to C SNPs, while 02, 05, and 06 have T's at that locus. Looking at the haplotype data shows that the researchers who compiled this dataset
+predict that the loci at chrI:27,915 in A01_01, _03, and _04 came from the R strain, while those at A01_02, _05, and _06 came from the B strain.
+
+This pattern holds when we zoom out. At different SNP loci, certain samples have SNPs assigned to R or B and others have the 'reference' nucleotide, which aligns with our haplotype file.
