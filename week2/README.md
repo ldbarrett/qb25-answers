@@ -45,5 +45,16 @@ samtools index longreads.bam
 samtools idxstats longreads.bam > longreads.idxstats
 
 
+## Exercise 5
+### hisat2 Commands
+fasterq-dump -p SRR10143769  
+hisat2-build ../genomes/sacCer3.fa sacCer3
+hisat2 -p 4 -x ../genomes/sacCer3 -U ../rawdata/SRR10143769.fastq -S rna.sam
+
+samtools sort -o rna.bam rna.sam
+samtools index rna.bam
+
+It seems like the 3' ends of the transcripts are getting the most coverage. This can probably be explained by the method used to acquire reads on a transcript. Perhaps the 5' end is lost because of an early DNA binding event to the 5' tails (to amplify the signal of mRNA) and so the stuff that actually gets sequenced starts beyond there, closer to the 3' end?
+
 
 
